@@ -1,7 +1,7 @@
 (p.'hello world ✌')
 (p. 'welcome to my project ♨️')
 
-('para')nobody5624120/nobody5624120('para') is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+('para')Adaptive User Enviroment('para') is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
