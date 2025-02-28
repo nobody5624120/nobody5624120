@@ -1,7 +1,7 @@
 (p.'hello world ✌')
 (p. 'welcome to my project ♨️')
 
-('paras')nobody5624120/nobody5624120('paras') is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+('para')nobody5624120/nobody5624120('para') is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
